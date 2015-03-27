@@ -13,7 +13,7 @@ MaptimeDiliman is the Diliman chapter of the international Maptime community. To
 
 **Twitter**. You can also follow us on Twitter at [@MaptimeDiliman](http://twitter.com/MaptimeDiliman). 
 
-**Survey**. Our tutorials are structured around what you want to learn. Fill out our survey out even if you haven't attended a meeting to express what you're interested in learning! [bit.ly/MaptimeDiliman_survey](http://bit.ly/MaptimeDiliman_survey)
+**Survey**. Our tutorials are structured around what you want to learn. Fill out our survey out even if you haven't attended a meeting to express what you're interested in learning! [MaptimeDiliman Survey](http://bit.ly/MaptimeDilimanSurvey)
 
 #Our Tutorials
 
