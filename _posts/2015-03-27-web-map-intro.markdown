@@ -77,7 +77,7 @@ The following code is a very basic version of a webpage. It consists of the `<ht
 <p>By combining these web elements, CSS, and Javascript, you can assemble a webpage in any way you like.</p>
 </div>
 
-<script src="https://gist.github.com/rukku/5e2b59a1bce46b5c445a.js"></script>
+<script src="https://gist.github.com/rukku/4ecc65b8c8f787d2df62.js"></script>
 
 You should see the a couple things on this page. First, the background-color has changed via the `background-color:green;` declaration in the `<style>` tags. This is **CSS**, which adds styles to your web page's elements.
 
@@ -171,7 +171,7 @@ Again we can see the marker being added to `map` at the end. There are two other
 
 *NOTE: You'll want your marker's `lat,lng` to be in the same extent as your map's `lat,lng`. For now, it's best to just make them the same!*
 
-<script src="https://gist.github.com/rukku/4ecc65b8c8f787d2df62.js"></script>
+<script src="https://gist.github.com/rukku/5e2b59a1bce46b5c445a.js"></script>
 
 # CHALLENGE
 
