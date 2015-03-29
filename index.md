@@ -15,7 +15,7 @@ MaptimeDiliman is the Diliman chapter of the international Maptime community. To
 
 **Slack**. You can also chat with us on [Slack](https://maptimediliman.herokuapp.com/). 
 
-**Survey**. Our tutorials are structured around what you want to learn. Fill out our survey out even if you haven't attended a meeting to express what you're interested in learning! [MaptimeDiliman Survey](http://bit.ly/MaptimeDilimanSurvey)
+**Survey**. Our tutorials are structured around what you want to learn. Fill out our survey even if you haven't attended a meeting to express what you're interested in learning! [MaptimeDiliman Survey](http://bit.ly/MaptimeDilimanSurvey)
 
 
 
