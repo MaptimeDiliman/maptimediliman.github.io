@@ -2,6 +2,8 @@
 
 <h1 id="tutorial" class="tutorial-title">Maptime Diliman</h1>
 
+![Quezon City Memorial](/img/QuezonMemorialPhilippines.jpg)
+
 MaptimeDiliman is the Diliman chapter of the international Maptime community. Together, we learn and explore mapping technologies through tutorials and other meetups. 
 
 #Stay Connected
