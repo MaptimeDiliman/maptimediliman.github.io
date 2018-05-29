@@ -9,7 +9,7 @@ title: Maptime Diliman
 
 MaptimeDiliman is the Diliman chapter of the international Maptime community. Together, we learn and explore mapping technologies through tutorials and other meetups. 
 
-#Stay Connected
+# Stay Connected
 
 **Meetup**. All of our meetings and events will be posted on [our meetup site](http://meetup.com/MaptimeDiliman). 
 
@@ -21,6 +21,6 @@ MaptimeDiliman is the Diliman chapter of the international Maptime community. To
 
 
 
-#Our Tutorials
+# Our Tutorials
 
 We are trying our best to post tutorials so anybody can learn from them. We'll be using [resources](http://maptime.io/lessons-resources/) from [MaptimeHQ](http://twitter.com/MaptimeHQ) as well as writing our own.
