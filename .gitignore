@@ -1,2 +1,8 @@
 .DS_Store
 _site/
+vendor/
+*~
+.*~
+*swp
+.*swp
+
